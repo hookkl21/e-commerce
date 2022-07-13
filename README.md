@@ -5,7 +5,7 @@
 - Practice key concepts of React.js functionality and other in demand skills needed in front-end development
 - Sharpen problem solving/critical thinking skills for better user experience
 - Practice better error handling, authorization process, and design
-- Practice Front-end task and implement some back-end for basic use
+- Practice Front-end task mind-set and implement some back-end server functionality for better understand how those two interract
 
 ## About:
 
@@ -17,10 +17,5 @@
 - Sorting is implemented
 - Using netlify dev command for back-end functionality. (i.e authorize user/connect stripe checkout)
 
-```
+## 
 
-#### Alternative fix
-
-.env file in the root
-FAST_REFRESH=FALSE
-```
