@@ -27,4 +27,4 @@
 - stripeCheckout.js component uses node file called create-payment-intent.js for post the request to retrieve the secret-clientID, once the proces is done, proceeds to complete the checkout process.
 
 ##Run Through Video
-![](https://github.com/hookkl21/e-commerce/melloyelloshop.gif)
+![](https://github.com/hookkl21/e-commerce/blob/main/melloyelloshop.gif)
