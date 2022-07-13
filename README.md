@@ -26,5 +26,5 @@
 - For checkout,  by using netlify dev/stripe back-end functionality, by user login, retrieves the secret-client key to keep intrack of the user on the web. This makes a very simple code as a front-end to implement basic functionality by reading stripe docs to create the payment functionality.
 - stripeCheckout.js component uses node file called create-payment-intent.js for post the request to retrieve the secret-clientID, once the proces is done, proceeds to complete the checkout process.
 
-##Run Through Video
+## Run Through Video
 ![](https://github.com/hookkl21/e-commerce/blob/main/melloyelloshop.gif)
