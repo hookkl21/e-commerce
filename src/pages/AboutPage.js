@@ -15,10 +15,11 @@ const AboutPage = () => {
             <div className="underline"></div>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem,
-            illo porro? Earum saepe accusamus doloremque magni sapiente porro
-            vero? Dolore dolorem aliquid est unde nihil repellendus fuga,
-            placeat inventore quibusdam?
+            Welcome to Mello Yello Shop! Here, you can find your finest and
+            greatest modern funiture to bring your vision to life with
+            hand-curated collections, priced just right. Your style can shine
+            through in so many ways! Find your inspiration to create a home all
+            your own!
           </p>
         </article>
       </Wrapper>

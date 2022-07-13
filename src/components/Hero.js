@@ -13,8 +13,9 @@ const Hero = () => {
           comfort Zone
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Id earum
-          numquam quod eveniet! Dicta enim ea ad id sint debitis!
+          An easy way to find your favorite styles. Get inspired for your next
+          room refresh. Now is your time to turn home into a forever vacation!
+          Your creation and imagination are limitless!
         </p>
         <Link to="/products" className="btn hero-btn">
           Shop Now

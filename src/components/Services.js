@@ -12,9 +12,9 @@ const Services = () => {
             build only for you
           </h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Exercitationem debitis non velit expedita dignissimos minus vitae
-            neque quidem consequatur assumenda.
+            Tastful, bold shapes, plush materials & extra details create luxury
+            at every turn. Surround yourself with beautiful things in every room
+            of your home.
           </p>
         </article>
         <div className="services-center">
